@@ -2,16 +2,16 @@
 
 ## Task 1
 
-| Text | Answer | Notice text (summary) |
-|------|--------|-----------------------|
-| 1 | E | Swimming pool from 7 a.m. |
-| 2 | D | Check in 2–10 p.m. |
-| 3 | C | Bags through scanner |
-| 4 | G | Café on third floor |
-| 5 | F | Last train at 11:30 p.m. |
-| 6 | A | No entry without ticket |
+| Text | Answer | Key idea in text |
+|------|--------|------------------|
+| 1 | E | School finishes early → timetable change |
+| 2 | C | Produce sold Saturday in town square → food market |
+| 3 | A | Farm with rooms, breakfast, garden → accommodation |
+| 4 | H | Pool closed for repairs → building closure |
+| 5 | G | Beginners' cooking course on Tuesdays → learn to cook |
+| 6 | D | Children's festival with games and music → family event |
 
-Extra (not used): **B**, **H**
+Extra (not used): **B**, **F**
 
 ## Task 2
 

@@ -2,16 +2,16 @@
 
 ## Task 1
 
-| Text | Answer | Notice text (summary) |
-|------|--------|-----------------------|
-| 1 | C | Second-hand bicycle for sale |
-| 2 | G | Trusted pet sitter |
-| 3 | E | Community cinema night in park |
-| 4 | A | Tutors for science and maths |
-| 5 | B | Looking for a flatmate |
-| 6 | H | Volunteer English teachers needed |
+| Text | Answer | Key idea in text |
+|------|--------|------------------|
+| 1 | B | Digital workshops at library → tech learning for adults |
+| 2 | C | Riverside litter clean-up → environmental campaign |
+| 3 | F | Street food, live music, diverse cuisines → cultural diversity |
+| 4 | A | Free food/clothing for struggling families → financial support |
+| 5 | G | Free gym membership for inactive residents → physical health |
+| 6 | H | Students matched with professionals → mentoring scheme |
 
-Extra (not used): **D**, **F**
+Extra (not used): **D**, **E**
 
 ## Task 2
 

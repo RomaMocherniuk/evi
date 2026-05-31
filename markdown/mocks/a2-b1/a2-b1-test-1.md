@@ -9,38 +9,38 @@
 
 ## Task 1 — Matching (Questions 1–6)
 
-Match each situation (1–6) with the most suitable notice, announcement or text (A–H).
-There are **two extra texts** you do not need.
+Read texts 1–6. Match each text with the most suitable heading (A–H).
+There are **two extra headings** you do not need.
 
-**A)** Internship positions available for final-year students — apply with CV and cover letter.
+**A)** A programme addressing skills shortages in a specific sector
 
-**B)** Evening language courses for working adults — start any Monday, no enrolment fee.
+**B)** An announcement about reforms to a national qualification system
 
-**C)** Scholarship scheme for students from low-income families — deadline 15 June.
+**C)** A report on the effectiveness of peer learning in higher education
 
-**D)** Career guidance sessions — free one-to-one appointments with a professional adviser.
+**D)** An initiative designed to widen access to academic resources
 
-**E)** Postgraduate open day — find out about master's programmes and funding options.
+**E)** A campaign promoting ethical consumer choices in fashion
 
-**F)** Student council election — vote for your representative by Friday.
+**F)** A scheme supporting the mental wellbeing of university students
 
-**G)** Exchange programme to Germany — fully funded, open to second-year students.
+**G)** A description of a new approach to assessing student progress
 
-**H)** CV-writing workshop — improve your application skills in two hours.
+**H)** An event connecting graduates with potential employers
 
 ---
 
-**1.** You are in your final year of university and want work experience in your field before graduation.
+**1.** Career Connect is a twice-yearly event where final-year students and recent graduates meet representatives from over 120 companies. Recruiters from finance, engineering, healthcare, and the creative industries attend. The next event takes place at the National Convention Centre on 25 November. Attendees are advised to bring printed CVs and prepare a short personal introduction.
 
-**2.** You are unsure what career to pursue and would like professional advice for free.
+**2.** The OpenLearn Project has made over 900 university-level course modules freely available online, including lecture recordings, reading lists, and practice assessments. The initiative targets learners who cannot access traditional higher education due to cost, location, or time constraints. Certificates of completion are available for a small administrative fee.
 
-**3.** You want to improve your job application but are not sure how to write a good CV.
+**3.** A growing number of universities have replaced traditional end-of-year examinations with continuous assessment through portfolios, presentations, and collaborative projects. Supporters argue that this approach better reflects the skills employers actually seek. Critics warn that without standardised testing, comparing achievement across institutions becomes problematic.
 
-**4.** You have finished your degree and want to learn about continuing your studies.
+**4.** Counselling Plus has expanded its provision at fifteen universities across the country, adding online therapy sessions, peer support groups, and a 24-hour text-based crisis service. Demand for student mental health support has risen by 40% in three years. The scheme is jointly funded by universities and a government initiative.
 
-**5.** You are a second-year student and would like to study abroad without paying tuition fees.
+**5.** The government has announced a review of secondary-level qualifications, with proposals to broaden subject combinations and reduce reliance on end-of-course exams. Pilot schools will begin testing the new framework in September. Full national implementation is expected by 2028.
 
-**6.** You work full-time and want to learn a new language in the evenings with no upfront costs.
+**6.** A fast-growing technology company is offering a 30-week intensive training programme for career-changers with no previous coding experience. Trainees receive a salary during training and are guaranteed a role on successful completion. The scheme was developed in direct response to a national shortage of software engineers.
 
 ---
 

@@ -9,38 +9,38 @@
 
 ## Task 1 — Matching (Questions 1–6)
 
-Match each situation (1–6) with the most suitable notice or message (A–H).
-There are **two extra notices** you do not need.
+Read texts 1–6. Match each text with the most suitable heading (A–H).
+There are **two extra headings** you do not need.
 
-**A)** Gym membership — first month free for new members.
+**A)** A service that helps people manage personal finances
 
-**B)** Weekly yoga and meditation classes — all levels welcome.
+**B)** A community project to improve public spaces
 
-**C)** Healthy eating workshop: how to plan balanced meals on a budget.
+**C)** An opportunity for young people to develop leadership skills
 
-**D)** Running club — join us every Saturday at 8 a.m. in City Park.
+**D)** A programme offering support for mental wellbeing
 
-**E)** Dental check-up reminders sent automatically by app.
+**E)** A notice about changes to parking in the area
 
-**F)** Free blood pressure check every Wednesday at the pharmacy.
+**F)** An event raising money for a local charity
 
-**G)** Mental health helpline — available 24 hours, 7 days a week.
+**G)** A scheme promoting healthy eating habits
 
-**H)** Second-hand sports equipment sale — all profits go to charity.
+**H)** A course to help adults re-enter the job market
 
 ---
 
-**1.** You want to start exercising but cannot afford expensive sports gear.
+**1.** Mind Matters is a new drop-in service at the community centre offering free, confidential conversations with trained counsellors. No appointment is needed, and the service is open every weekday from 10 a.m. to 6 p.m. Anyone aged 16 and over is welcome to attend.
 
-**2.** You feel stressed and want a calm, relaxing activity to help you unwind.
+**2.** Starting next month, the council will close Maple Street to cars during school hours in order to create a safer route for children walking to school. A temporary one-way system for local residents will be in place during the closure period.
 
-**3.** You want to exercise outdoors and meet other people who enjoy running.
+**3.** Citywide volunteers are needed this October to plant trees, install new benches, and repaint outdoor play equipment in parks across the district. The project welcomes individuals, families, and corporate groups. Sign up at volunteernow.org or call the parks department.
 
-**4.** You want to learn how to eat well without spending too much money.
+**4.** The Saturday Farmers' Table initiative encourages local families to cook one meal per week using seasonal, unprocessed ingredients. Free recipe cards are available at participating supermarkets, and the scheme is linked to a national campaign to reduce processed food consumption among families.
 
-**5.** You are worried about your heart health and want a quick free check.
+**5.** North Bridge Community College is offering a twelve-week "Back to Work" programme for adults who have been out of employment for more than a year. The course covers CV writing, digital skills, and interview techniques. There is no fee for participants who are receiving certain government benefits.
 
-**6.** You have been very sad lately and need someone to talk to at any time.
+**6.** Our annual sponsored walk through the national park raises thousands of pounds for the local children's hospice each year. This year's route is 18 kilometres long. Participants can register online and collect sponsorship forms from any local pharmacy.
 
 ---
 

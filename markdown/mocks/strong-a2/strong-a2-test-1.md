@@ -9,38 +9,38 @@
 
 ## Task 1 — Matching (Questions 1–6)
 
-Match each situation (1–6) with the most suitable announcement or notice (A–H).
-There are **two extra notices** you do not need.
+Read texts 1–6. Match each text with the most suitable heading (A–H).
+There are **two extra headings** you do not need.
 
-**A)** Experienced tutors available for science and maths support.
+**A)** An initiative to support people with financial difficulties
 
-**B)** Looking for a flatmate from September — own room, shared kitchen.
+**B)** A technology-related learning opportunity for adults
 
-**C)** Second-hand bicycle for sale — good condition, serviced last year.
+**C)** An environmental campaign in the local community
 
-**D)** Summer language camp — applications accepted until 30 May.
+**D)** A programme to help young people develop professional skills
 
-**E)** Community cinema night in the park — bring a blanket and snacks!
+**E)** A notice about a change to community services
 
-**F)** Cooking course: learn Italian recipes in four Saturday sessions.
+**F)** An event celebrating cultural diversity
 
-**G)** Trusted pet sitter available while you are away on holiday.
+**G)** An opportunity to improve physical health at low cost
 
-**H)** Volunteer English teachers needed for adult learners — weekends.
+**H)** A scheme connecting experienced professionals with students
 
 ---
 
-**1.** You want to find a cheaper, eco-friendly way to travel to work every day.
+**1.** The city library is launching a series of free Saturday workshops on using smartphones, tablets, and online banking securely. Sessions are designed for adults with little or no digital experience. Each participant will receive a printed guide to take home after the session.
 
-**2.** A friend needs someone to look after her cat for two weeks while she travels.
+**2.** Dozens of volunteers are needed for this autumn's riverside clean-up, which aims to collect litter from the banks of the River Stour and remove invasive plant species. Gloves, tools, and refreshments will be provided on the day. The event runs across three weekends in October.
 
-**3.** You enjoy films and want a fun, free outdoor social activity this summer.
+**3.** An international street food festival is coming to Central Square on 14–16 August, with over thirty stalls representing cuisines from Africa, Asia, Latin America, and Eastern Europe. Live performances, craft markets, and language exchange activities will also take place throughout the weekend.
 
-**4.** Your teenage son is struggling with chemistry at school and needs extra help.
+**4.** Second Chance is a new charity scheme offering free food parcels, winter clothing, and household essentials to families who are struggling financially. Donations of non-perishable food and warm clothing are accepted at any of our three drop-off points across the city.
 
-**5.** You are moving to a new city and need someone to share the cost of an apartment.
+**5.** The council is offering free gym membership for six months to residents aged 18 to 30 who have not been regularly physically active in the past year. To apply, complete the short online form and bring printed confirmation to your nearest leisure centre. Places are limited.
 
-**6.** You speak English well and want to give something back to the community at weekends.
+**6.** Horizon Mentoring matches university students with professionals working in their chosen field. Each mentor commits to monthly one-to-one meetings and career advice sessions over one academic year. Students interested in applying should attend the information evening on 9 October.
 
 ---
 

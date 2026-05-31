@@ -2,16 +2,16 @@
 
 ## Task 1
 
-| Text | Answer | Notice text (summary) |
-|------|--------|-----------------------|
-| 1 | A | Internship for final-year students |
-| 2 | D | Free career guidance sessions |
-| 3 | H | CV-writing workshop |
-| 4 | E | Postgraduate open day |
-| 5 | G | Fully funded exchange to Germany |
-| 6 | B | Evening language courses for working adults |
+| Text | Answer | Key idea in text |
+|------|--------|------------------|
+| 1 | H | Graduates meet 120+ company reps → networking/employer event |
+| 2 | D | 900 free modules online, targets those who can't access university → widening access |
+| 3 | G | Portfolios/presentations replace exams → new assessment approach |
+| 4 | F | Counselling, peer support, crisis line at universities → student wellbeing |
+| 5 | B | Review of secondary qualifications, fewer exams → qualification reform |
+| 6 | A | Coding programme for career-changers, response to engineer shortage → skills gap |
 
-Extra (not used): **C**, **F**
+Extra (not used): **C**, **E**
 
 ## Task 2
 

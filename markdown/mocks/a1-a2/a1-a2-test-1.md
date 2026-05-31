@@ -9,38 +9,38 @@
 
 ## Task 1 — Matching (Questions 1–6)
 
-Match each situation (1–6) with the most suitable notice (A–H).
-There are **two extra notices** you do not need.
+Read texts 1–6. Match each text with the most suitable heading (A–H).
+There are **two extra headings** you do not need.
 
-**A)** Please keep noise to a minimum after 10 p.m.
+**A)** A place to buy things for your home
 
-**B)** Dogs must be on a lead at all times.
+**B)** Information about a sports event
 
-**C)** Open every day: 8 a.m. – 9 p.m.
+**C)** A place where children can learn something new
 
-**D)** Free entry for children under 12.
+**D)** An advertisement for a job
 
-**E)** Please take a number and wait to be called.
+**E)** A description of a weekend activity for families
 
-**F)** No food or drink in this area.
+**F)** Information about a change to public transport
 
-**G)** Return borrowed items within 21 days.
+**G)** An announcement about the weather
 
-**H)** Hot water is turned off on Tuesday mornings.
+**H)** A notice about changes to opening hours
 
 ---
 
-**1.** You are in a post office queue and want to know how to wait your turn.
+**1.** The number 12 bus will not run on Sunday 3 November. Passengers can take bus number 14 instead. The service will return to normal on Monday morning.
 
-**2.** You are visiting a museum with your 10-year-old nephew.
+**2.** Summer Art Camp is open to children aged 6 to 12. This year, kids will paint, make ceramics, and learn basic photography. Places are limited, so register online before 30 June.
 
-**3.** You want to know when a shop is open.
+**3.** Strong winds and heavy rain are expected tomorrow morning. Temperatures will be between 8 and 12 degrees. People should drive carefully and stay inside if possible.
 
-**4.** You are sitting in a library with a book and a cup of coffee.
+**4.** Sunrise Kitchen needs a part-time assistant from Monday to Friday, 8 a.m. to 1 p.m. You do not need experience — full training is provided. Please call 044 123 456 or visit us in person.
 
-**5.** You are walking your dog in a park.
+**5.** Come to City Furniture for our spring sale this weekend! All sofas, chairs, and tables are 30% cheaper than usual. We are open on Saturday and Sunday from 10 a.m. to 7 p.m.
 
-**6.** You borrowed a book and want to know when to return it.
+**6.** Join us at City Park on Saturday for a 5-kilometre fun run for all ages! Registration starts at 8:30 a.m. Children under 10 take part for free.
 
 ---
 

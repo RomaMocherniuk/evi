@@ -9,38 +9,38 @@
 
 ## Task 1 — Matching (Questions 1–6)
 
-Match each situation (1–6) with the most suitable notice (A–H).
-There are **two extra notices** you do not need.
+Read texts 1–6. Match each text with the most suitable heading (A–H).
+There are **two extra headings** you do not need.
 
-**A)** No entry without a ticket.
+**A)** A holiday accommodation option
 
-**B)** Showers are available in Room 12.
+**B)** A notice about rules in a public place
 
-**C)** Bags must go through the security scanner.
+**C)** Information about a local food market
 
-**D)** Check in between 2 p.m. and 10 p.m.
+**D)** An event for the whole family
 
-**E)** Swimming pool open from 7 a.m. daily.
+**E)** A change to school timetable
 
-**F)** Last train to the city centre at 11:30 p.m.
+**F)** Information about health services in the area
 
-**G)** Café on the third floor — hot drinks and snacks.
+**G)** An offer to help people learn to cook
 
-**H)** Push the red button for emergency help.
+**H)** A notice about a building closure
 
 ---
 
-**1.** You want to swim early in the morning before work.
+**1.** Thornfield Primary School will finish one hour early on Friday 14 March because of a staff training day. Parents should collect their children at 2 p.m. instead of 3 p.m. Please contact the school office if this causes any problems.
 
-**2.** You are arriving at your hotel late in the evening and want to know if you can still check in.
+**2.** Fresh fruit and vegetables, local honey, home-made jams, and seasonal produce are available every Saturday from 9 a.m. to 2 p.m. in the town square. Come early — the most popular items often sell out by noon.
 
-**3.** You are at the airport and need to send your suitcase through the check-in process.
+**3.** Meadow View Farm offers comfortable rooms for two to eight guests, and breakfast is included in the price. Guests have access to a garden, a barbecue area, and walking trails through the surrounding countryside. Prices start from 40 euros per person per night.
 
-**4.** You are hungry and want to find a place to eat inside the building.
+**4.** The community swimming pool will be closed for repairs from 1 to 15 April. During this time, residents can use the pool at Eastside Sports Centre at a reduced price. We apologise for the inconvenience and thank you for your patience.
 
-**5.** You need to catch the last train home tonight.
+**5.** Join our four-week beginners' course and learn how to prepare healthy, delicious meals at home. Classes take place on Tuesday evenings from 6 to 8 p.m. No previous experience is needed, and all materials are provided.
 
-**6.** You want to enter a concert but you forgot to buy a ticket.
+**6.** Westpark Children's Festival returns on 20 July with games, face painting, live music, and food stalls for all the family. Activities are free for children under 16. Adult entry is 5 euros.
 
 ---
 

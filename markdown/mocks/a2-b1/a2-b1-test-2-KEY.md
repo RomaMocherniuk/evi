@@ -2,14 +2,14 @@
 
 ## Task 1
 
-| Text | Answer | Notice text (summary) |
-|------|--------|-----------------------|
-| 1 | H | Free cinema tickets for students |
-| 2 | C | Free digital literacy for adults over 50 |
-| 3 | D | Online mentoring with industry professionals |
-| 4 | A | Junior developer programme, no experience |
-| 5 | B | New 24-hour public transport routes |
-| 6 | G | Trail network for cyclists and families |
+| Text | Answer | Key idea in text |
+|------|--------|------------------|
+| 1 | G | Engineers + designers solve urban problems at event → innovation event |
+| 2 | H | AI adjusts bus timetables using real-time data → smarter transport |
+| 3 | D | Solar panels funded for low-income households → residential renewables |
+| 4 | B | Long commutes linked to stress and poor sleep → commuting and wellbeing |
+| 5 | A | Cafés certified for eliminating single-use plastic → plastic campaign |
+| 6 | C | Residents vote on spending, submit ideas via app → citizen participation |
 
 Extra (not used): **E**, **F**
 

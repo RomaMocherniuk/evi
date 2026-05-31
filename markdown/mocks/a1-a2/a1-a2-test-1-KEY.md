@@ -2,16 +2,16 @@
 
 ## Task 1
 
-| Text | Answer | Notice text (summary) |
-|------|--------|-----------------------|
-| 1 | E | Take a number and wait |
-| 2 | D | Free entry under 12 |
-| 3 | C | Open every day 8–9 |
-| 4 | F | No food or drink |
-| 5 | B | Dogs on a lead |
-| 6 | G | Return items in 21 days |
+| Text | Answer | Key idea in text |
+|------|--------|------------------|
+| 1 | F | Bus 12 not running Sunday → transport change |
+| 2 | C | Art camp for children → learn something new |
+| 3 | G | Heavy rain, strong winds expected → weather |
+| 4 | D | Kitchen looking for part-time assistant → job ad |
+| 5 | A | Furniture sale → buy things for home |
+| 6 | B | Fun run in City Park → sports event |
 
-Extra (not used): **A**, **H**
+Extra (not used): **E**, **H**
 
 ## Task 2
 

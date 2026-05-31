@@ -2,16 +2,16 @@
 
 ## Task 1
 
-| Text | Answer | Notice text (summary) |
-|------|--------|-----------------------|
-| 1 | H | Second-hand sports equipment sale |
-| 2 | B | Yoga and meditation classes |
-| 3 | D | Running club, Saturday mornings |
-| 4 | C | Healthy eating workshop |
-| 5 | F | Free blood pressure check |
-| 6 | G | Mental health helpline 24/7 |
+| Text | Answer | Key idea in text |
+|------|--------|------------------|
+| 1 | D | Free counselling, no appointment → mental wellbeing support |
+| 2 | E | Maple Street closed to cars → parking/traffic changes |
+| 3 | B | Volunteers plant trees, paint equipment → improve public spaces |
+| 4 | G | Cook with seasonal ingredients, reduce processed food → healthy eating |
+| 5 | H | 12-week course: CV, digital skills, interviews → re-enter job market |
+| 6 | F | Sponsored walk raises money for hospice → charity fundraiser |
 
-Extra (not used): **A**, **E**
+Extra (not used): **A**, **C**
 
 ## Task 2
 

@@ -9,38 +9,38 @@
 
 ## Task 1 — Matching (Questions 1–6)
 
-Match each situation (1–6) with the most suitable text (A–H).
-There are **two extra texts** you do not need.
+Read texts 1–6. Match each text with the most suitable heading (A–H).
+There are **two extra headings** you do not need.
 
-**A)** Tech startup accepts applications for its junior developer programme — no prior experience required.
+**A)** A campaign to reduce single-use plastic in the food industry
 
-**B)** City announces new 24-hour public transport routes to reduce car use at night.
+**B)** A study examining the relationship between commuting and wellbeing
 
-**C)** Community library launches free digital literacy courses for adults over 50.
+**C)** An initiative enabling citizens to participate in local decision-making
 
-**D)** University introduces online mentoring programme connecting students with industry professionals.
+**D)** A programme promoting renewable energy in residential areas
 
-**E)** New law requires all employers to offer flexible working arrangements from day one.
+**E)** A report on the social consequences of working from home
 
-**F)** Government announces expansion of free childcare places for working parents.
+**F)** A scheme to increase the representation of women in STEM careers
 
-**G)** National park opens new trail network designed for cyclists and families with prams.
+**G)** An event bringing together innovators to address urban challenges
 
-**H)** Film festival offers free tickets to unemployed people and students with valid ID.
+**H)** A project using technology to make public transport more efficient
 
 ---
 
-**1.** You are a student who loves cinema but cannot afford tickets.
+**1.** SmartCity Hack is a 48-hour event where teams of engineers, designers, and policy experts collaborate to develop practical solutions to urban problems such as traffic congestion, waste management, and air quality. Prototype solutions are presented to a panel of city officials and investors. Previous winning teams have gone on to launch start-ups funded through the event's partnerships.
 
-**2.** Your elderly mother has recently got a smartphone but does not know how to use it properly.
+**2.** The TramTrack AI system, recently introduced on four bus routes in the capital, uses real-time passenger data and traffic analysis to adjust timetables dynamically. Early results show a 17% reduction in average passenger waiting times. The city council plans to extend the system to the entire network by 2027.
 
-**3.** You are a student looking for career connections and professional guidance in your field.
+**3.** A new national programme will fund solar panel installation for households in low-income areas, covering up to 80% of installation costs. Participating households are expected to reduce their annual energy bills by an average of 600 euros. Applications open in January through local council offices.
 
-**4.** You want to get into the tech industry but have no previous coding experience.
+**4.** A national survey of 12,000 workers found that employees commuting more than 45 minutes each way report significantly higher rates of stress, sleep disruption, and dissatisfaction with work-life balance. The negative effects were particularly pronounced among those using crowded public transport. The study recommends further investment in local employment hubs.
 
-**5.** You need to travel home after midnight and rely on public transport.
+**5.** PlasTake is a certification scheme for restaurants and cafés that have eliminated single-use plastics from their packaging, utensils, and condiment portions. Certified venues display a green badge and appear on a searchable map app. The scheme currently has over 2,400 members across eleven cities.
 
-**6.** You are a parent with young children who want to enjoy nature together.
+**6.** YourVoice is a digital platform allowing residents to submit ideas, comment on planning proposals, and vote on local spending priorities directly from their smartphones. Launched in three pilot boroughs, it attracted over 50,000 users in its first month. Councillors are legally required to consider any proposal receiving more than 1,000 votes.
 
 ---
 
